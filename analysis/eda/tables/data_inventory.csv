@@ -1,0 +1,4 @@
+file,sheet,coded_records,columns,missing_cells,duplicate_codes,duplicate_full_rows
+2. Dataset_Sociodemo.xlsx,SocioDemo_data,1220,49,0,0,0
+3. Dataset_MobileDependence.xlsx,TMD_data,1220,32,0,0,0
+5. Dataset_Depression.xlsx,Depression_data,1220,31,0,0,0

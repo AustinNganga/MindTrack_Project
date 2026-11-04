@@ -1,0 +1,16 @@
+finding,evidence,recommended_follow_up
+IDs and join,"1,220 unique student codes match in order.","Join on Code, never as a predictor."
+Missingness,No blank cells in coded records.,No imputation appears necessary; recheck after merge.
+Duplicates,"No duplicate full rows; repeated answer patterns: TMD 94, Beck 555.",Keep valid students; matching answers alone are not grounds for removal.
+TMD total,1 supplied total differs from sum of 22 items; code 164.,Recompute TMD total for analysis; preserve source.
+Beck total,1220 of 1220 totals match 21 item sum.,Retain after confirming instrument scoring.
+Item ranges,TMD items are within 0-4 and Beck items are within 0-3; no invalid item values found.,Retain valid responses.
+Beck instrument,Files say BDI-2; item wording/bands resemble original Beck form; item N label conflicts with body-image wording.,Confirm Beck form and cutoff with lecturer/supervisor.
+Cutoff,Provisional 11+ group 218/1220 (17.9%).,Confirm cutoff; use metrics suited to class imbalance.
+Daily-use category,"Codebook mapping valid; counts 1:205, 2:1, 3:334, 4:680.",Verify the single 1-3h response; avoid overinterpretation.
+Age,16-60; under18=15; over30=129; above Tukey fence=101.,"Within documented range; retain plausible values, check minor reporting."
+High scores,"Above Tukey fences: Beck 65, TMD 3.",Do not remove valid bounded high scores automatically.
+Department/program,19 programs grouped into four departments.,Prefer Department for model; keep Program for description.
+App labels,Dictionary No/Yes but survey asks apps used most often.,Call these selection flags pending confirmation.
+Out-of-scope columns,Posture/ergonomics and anxiety columns are outside depression scope.,Exclude from current model; preserve raw files.
+Codebook typos,Posture-specific usage-time codebook has incorrect leading codes.,Keep these columns out of scope unless verified.
