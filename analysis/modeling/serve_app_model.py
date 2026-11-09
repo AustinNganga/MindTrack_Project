@@ -5,6 +5,7 @@ from pathlib import Path
 
 import joblib
 import pandas as pd
+from sklearn.base import BaseEstimator, TransformerMixin
 
 ROOT = Path(__file__).resolve().parents[2]
 MODEL_PATH = ROOT / "models" / "best_compact_app_ready_depression_model.joblib"
@@ -18,6 +19,24 @@ FIELDS = [
 ]
 APP_FLAGS = ["Using_social media_Apps", "Using_Ttime-management_Apps"]
 MODEL = None
+
+
+class AppFieldSelector(BaseEstimator, TransformerMixin):
+    """Compatibility class for the selector embedded in the saved joblib model.
+
+    The model was serialized while this class lived in the training script's
+    __main__ module. Defining the same class name here lets joblib resolve that
+    older artifact. Its fitted preprocessing and selected fields are restored
+    from the model file; prediction uses those saved attributes.
+    """
+    def transform(self, X):
+        missing = [field for field in self.selected_fields_ if field not in X.columns]
+        if missing:
+            raise ValueError(f"Missing selected app fields at prediction time: {missing}")
+        return self.preprocessor_.transform(X[self.selected_fields_])
+
+    def get_feature_names_out(self, input_features=None):
+        return self.encoded_feature_names_
 
 
 class Handler(BaseHTTPRequestHandler):
