@@ -1,0 +1,402 @@
+[
+ {
+  "inputs": {
+   "TMD_Total": 37.0,
+   "Age": 60.0,
+   "STAI_item_21": 2.0,
+   "Department": 1.0,
+   "Semester": 1.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 3.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 3.0,
+   "STAI_item_40": 3.0,
+   "Living_Arrangement": 3.0,
+   "Time_First_Cellphone": 2.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.35149625377692867
+ },
+ {
+  "inputs": {
+   "TMD_Total": 4.0,
+   "Age": 28.0,
+   "STAI_item_21": 4.0,
+   "Department": 2.0,
+   "Semester": 5.0,
+   "STAI_item_35": 3.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 2.0
+  },
+  "expected_probability": 0.06380579494664407
+ },
+ {
+  "inputs": {
+   "TMD_Total": 43.0,
+   "Age": 30.0,
+   "STAI_item_21": 4.0,
+   "Department": 3.0,
+   "Semester": 3.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 4.0,
+   "STAI_item_24": 4.0,
+   "STAI_item_1": 2.0,
+   "STAI_item_29": 3.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.407418210556347
+ },
+ {
+  "inputs": {
+   "TMD_Total": 42.0,
+   "Age": 21.0,
+   "STAI_item_21": 4.0,
+   "Department": 3.0,
+   "Semester": 10.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 3.0,
+   "STAI_item_24": 1.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 3.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 3.0
+  },
+  "expected_probability": 0.4973236681246302
+ },
+ {
+  "inputs": {
+   "TMD_Total": 51.0,
+   "Age": 27.0,
+   "STAI_item_21": 2.0,
+   "Department": 3.0,
+   "Semester": 5.0,
+   "STAI_item_35": 2.0,
+   "STAI_item_2": 2.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 4.0,
+   "STAI_item_40": 3.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 3.0
+  },
+  "expected_probability": 0.5524200076551229
+ },
+ {
+  "inputs": {
+   "TMD_Total": 63.0,
+   "Age": 23.0,
+   "STAI_item_21": 3.0,
+   "Department": 3.0,
+   "Semester": 6.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 1.0,
+   "STAI_item_24": 2.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 3.0,
+   "Time_First_Cellphone": 2.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.13152716859068034
+ },
+ {
+  "inputs": {
+   "TMD_Total": 23.0,
+   "Age": 19.0,
+   "STAI_item_21": 4.0,
+   "Department": 3.0,
+   "Semester": 4.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 1.0,
+   "STAI_item_24": 4.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 3.0,
+   "Living_Arrangement": 2.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 3.0
+  },
+  "expected_probability": 0.4032642396726076
+ },
+ {
+  "inputs": {
+   "TMD_Total": 55.0,
+   "Age": 24.0,
+   "STAI_item_21": 4.0,
+   "Department": 1.0,
+   "Semester": 8.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 4.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.13468007420164696
+ },
+ {
+  "inputs": {
+   "TMD_Total": 6.0,
+   "Age": 20.0,
+   "STAI_item_21": 4.0,
+   "Department": 2.0,
+   "Semester": 3.0,
+   "STAI_item_35": 3.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 3.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 2.0,
+   "STAI_item_38": 2.0
+  },
+  "expected_probability": 0.05145981434802201
+ },
+ {
+  "inputs": {
+   "TMD_Total": 37.0,
+   "Age": 18.0,
+   "STAI_item_21": 3.0,
+   "Department": 1.0,
+   "Semester": 3.0,
+   "STAI_item_35": 3.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 3.0,
+   "STAI_item_24": 4.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 3.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 2.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 4.0
+  },
+  "expected_probability": 0.5158234684811592
+ },
+ {
+  "inputs": {
+   "TMD_Total": 44.0,
+   "Age": 32.0,
+   "STAI_item_21": 1.0,
+   "Department": 4.0,
+   "Semester": 1.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 1.0,
+   "STAI_item_31": 4.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 1.0,
+   "STAI_item_29": 3.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 4.0,
+   "Time_First_Cellphone": 5.0,
+   "STAI_item_38": 2.0
+  },
+  "expected_probability": 0.549588204474546
+ },
+ {
+  "inputs": {
+   "TMD_Total": 58.0,
+   "Age": 22.0,
+   "STAI_item_21": 1.0,
+   "Department": 2.0,
+   "Semester": 6.0,
+   "STAI_item_35": 3.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 2.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 2.0
+  },
+  "expected_probability": 0.2785624331542467
+ },
+ {
+  "inputs": {
+   "TMD_Total": 23.0,
+   "Age": 19.0,
+   "STAI_item_21": 3.0,
+   "Department": 1.0,
+   "Semester": 1.0,
+   "STAI_item_35": 3.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 2.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 3.0
+  },
+  "expected_probability": 0.2388907234269345
+ },
+ {
+  "inputs": {
+   "TMD_Total": 66.0,
+   "Age": 38.0,
+   "STAI_item_21": 3.0,
+   "Department": 2.0,
+   "Semester": 3.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 1.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 2.0
+  },
+  "expected_probability": 0.18931767246705108
+ },
+ {
+  "inputs": {
+   "TMD_Total": 65.0,
+   "Age": 25.0,
+   "STAI_item_21": 4.0,
+   "Department": 2.0,
+   "Semester": 3.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 1.0,
+   "STAI_item_24": 4.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 5.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.26842266091791855
+ },
+ {
+  "inputs": {
+   "TMD_Total": 0.0,
+   "Age": 23.0,
+   "STAI_item_21": 4.0,
+   "Department": 2.0,
+   "Semester": 8.0,
+   "STAI_item_35": 4.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 2.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 3.0,
+   "STAI_item_40": 4.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.06349013746952638
+ },
+ {
+  "inputs": {
+   "TMD_Total": 51.0,
+   "Age": 22.0,
+   "STAI_item_21": 4.0,
+   "Department": 3.0,
+   "Semester": 8.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 4.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 4.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 1.0,
+   "STAI_item_38": 2.0
+  },
+  "expected_probability": 0.30171976476124074
+ },
+ {
+  "inputs": {
+   "TMD_Total": 8.0,
+   "Age": 19.0,
+   "STAI_item_21": 4.0,
+   "Department": 2.0,
+   "Semester": 3.0,
+   "STAI_item_35": 2.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 3.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 4.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 3.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 2.0,
+   "STAI_item_38": 3.0
+  },
+  "expected_probability": 0.04080833363319433
+ },
+ {
+  "inputs": {
+   "TMD_Total": 18.0,
+   "Age": 18.0,
+   "STAI_item_21": 3.0,
+   "Department": 1.0,
+   "Semester": 1.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 2.0,
+   "STAI_item_24": 2.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 2.0,
+   "STAI_item_40": 2.0,
+   "Living_Arrangement": 1.0,
+   "Time_First_Cellphone": 2.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.15234617299858383
+ },
+ {
+  "inputs": {
+   "TMD_Total": 53.0,
+   "Age": 27.0,
+   "STAI_item_21": 3.0,
+   "Department": 4.0,
+   "Semester": 5.0,
+   "STAI_item_35": 1.0,
+   "STAI_item_2": 3.0,
+   "STAI_item_31": 1.0,
+   "STAI_item_24": 3.0,
+   "STAI_item_1": 3.0,
+   "STAI_item_29": 1.0,
+   "STAI_item_40": 1.0,
+   "Living_Arrangement": 6.0,
+   "Time_First_Cellphone": 5.0,
+   "STAI_item_38": 1.0
+  },
+  "expected_probability": 0.1434777331862205
+ }
+]
