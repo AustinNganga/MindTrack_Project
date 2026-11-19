@@ -2,15 +2,20 @@ order,field,question,min,max,options,allowed_codes
 0,TMD_Total,Sum of the 22 Test of Mobile Dependence answers (each 0-4),0.0,88.0,,
 1,Age,Age,16.0,60.0,,
 2,STAI_item_21,I feel pleasant,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
-3,Department,Department,,,,"[1, 2, 3, 4]"
-4,Semester,Semester,1.0,10.0,,
-5,STAI_item_35,I feel inadequate,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
-6,STAI_item_2,I feel secure,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
-7,STAI_item_31,I have disturbing thoughts.,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
-8,STAI_item_24,I wish I could be as happy as others seem to be,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
-9,STAI_item_1,I feel calm,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
+3,Semester,Semester,1.0,10.0,,
+4,STAI_item_24,I wish I could be as happy as others seem to be,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
+5,STAI_item_31,I have disturbing thoughts.,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
+6,STAI_item_35,I feel inadequate,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
+7,STAI_item_38,I take disappointments so keenly that I can’t put them out of my mind,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
+8,STAI_item_37,Some unimportant thought runs through my mind and bothers me,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
+9,Living_Arrangement,Living_Arrangement,,,,"[1, 2, 3, 4, 5, 6]"
 10,STAI_item_29,I worry too much over something that really doesn’t matter,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
 11,STAI_item_40,I get in a state of tension or turmoil as I think over my recent concerns,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
-12,Living_Arrangement,Living_Arrangement,,,,"[1, 2, 3, 4, 5, 6]"
-13,Time_First_Cellphone,Time_First_Cellphone,,,,"[1, 2, 3, 4, 5]"
-14,STAI_item_38,I take disappointments so keenly that I can’t put them out of my mind,,,"{""1"": ""Almost never"", ""2"": ""Sometimes"", ""3"": ""Often"", ""4"": ""Almost always""}",
+12,STAI_item_2,I feel secure,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
+13,STAI_item_1,I feel calm,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
+14,STAI_item_9,I feel frightened,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
+15,Time_First_Cellphone,Time_First_Cellphone,,,,"[1, 2, 3, 4, 5]"
+16,STAI_item_7,I am presently worrying over possible misfortunes,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
+17,STAI_item_17,I am worried,,,"{""1"": ""Not at all"", ""2"": ""Somewhat"", ""3"": ""Moderately so"", ""4"": ""Very much so""}",
+18,Family_Expression,Family_Expression,,,,"[1, 2, 3, 4]"
+19,Family_Activities,Family_Activities,,,,"[1, 2, 3, 4]"
