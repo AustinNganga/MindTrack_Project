@@ -29,6 +29,8 @@ pip install pandas numpy scikit-learn statsmodels matplotlib seaborn openpyxl jo
 | `results/*.csv` | CV model comparison, compact-form selection, test results, regression, permutation importance |
 | `results/figures/*.png` | 12 report/presentation figures |
 | `models/mindtrack_rf.joblib` | scikit-learn model + feature list + threshold |
+| `models/base_model_baseline.joblib` | Base model: baseline that always predicts the training-set rate (the score to beat) |
+| `models/base_model_previous_feature_set.joblib` | Base model: first random forest on the previous project's inputs (socio + TMD total) |
 | `app/mindtrack_model.json` | The same forest as plain JSON for **on-device** prediction (~1 MB) |
 | `app/MindTrackModel.kt` | Kotlin class that loads the JSON and predicts (uses Android's built-in `org.json`) |
 | `app/app_input_fields.csv` | The 20 model inputs the app must collect, with answer codes |
