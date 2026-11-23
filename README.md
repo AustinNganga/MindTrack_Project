@@ -6,7 +6,7 @@ Open `notebooks/Pipeline.ipynb` and choose **Kernel → Restart & Run All** (abo
 
 ```bash
 source ~/.venvs/mindtrack/bin/activate        # or any Python 3.10+ environment
-pip install pandas numpy scikit-learn matplotlib seaborn openpyxl joblib jupyter
+pip install pandas numpy scikit-learn statsmodels matplotlib seaborn openpyxl joblib jupyter
 ```
 
 ## Headline result
